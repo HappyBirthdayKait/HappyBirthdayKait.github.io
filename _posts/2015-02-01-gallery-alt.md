@@ -1,5 +1,5 @@
 ---
-author: someone
+author: B
 layout: post_full
 type: gallery
 featimg: /galleries/gallery-standard-post/2.jpg

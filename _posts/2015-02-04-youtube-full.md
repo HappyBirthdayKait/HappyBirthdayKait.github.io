@@ -1,5 +1,5 @@
 ---
-author: someone
+author: B
 layout: post_full
 type: youtube
 yt-video-id: hPX9h5OrlhU

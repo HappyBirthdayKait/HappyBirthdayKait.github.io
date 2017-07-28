@@ -1,5 +1,5 @@
 ---
-author: person
+author: B
 layout: post_full
 title: Full Width Post
 featimg: 2.jpg
