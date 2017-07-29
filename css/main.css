@@ -16,6 +16,8 @@
 
  .vertical-pic{
 	-webkit-transform: rotate(90deg);
+	-ms-transform: rotate(90deg);
+	transform: rotate(90deg);
 	margin-top: 10%;
 	margin-bottom: 10%;
 	padding-bottom: 10%;
