@@ -36,11 +36,20 @@
   imagefolder: /img/galleries/2017July4th
   images:
   - filename: 1.jpg
+    img-orientation: vertical
     alttext: 1
-    orientation: vertical
   - filename: 2.jpg
+    img-orientation: vertical
     alttext: 2
   - filename: 3.jpg
+    img-orientation: vertical
     alttext: 3
   - filename: 4.jpg
+    img-orientation: vertical
     alttext: 4
+
+- id: 2017easter
+  imagefolder: /img/galleries/2017easter
+  images:
+  - filename: 1.jpg
+    alttext: 1
