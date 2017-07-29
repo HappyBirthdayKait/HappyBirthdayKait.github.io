@@ -31,7 +31,12 @@
                 </a>
             {% endif %}
         {% else %}
-            {% if post.featimg %}
+            {% if post.featimg and post.img-orientation == "vertical" %}
+                <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/'}}" class="noline">
+                    <img class="vertical-pic" src="{{ site.media_folder | prepend: site.baseurl | replace: '//', '/'}}/{{ post.featimg }}" alt="{{ post.featimg }}">
+                </a>
+            {% endif %}
+            {% if post.featimg and post.img-orientation != "vertical" %}
                 <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/'}}" class="noline">
                     <img src="{{ site.media_folder | prepend: site.baseurl | replace: '//', '/'}}/{{ post.featimg }}" alt="{{ post.featimg }}">
                 </a>
