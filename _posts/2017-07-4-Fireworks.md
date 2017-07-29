@@ -2,6 +2,7 @@
 author: B
 type: gallery
 featimg: galleries/2017July4th/Header.jpg
+img-orientation: vertical
 title: July 4th, 2017
 gallery-id: 2017July4th
 tags: [Holiday]

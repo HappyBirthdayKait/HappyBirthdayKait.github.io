@@ -10,6 +10,13 @@
  	font-style: normal;
  	}
 
+ .vertical-pic{
+	-webkit-transform: rotate(90deg);
+	margin-top: 10%;
+	margin-bottom: 10%;
+	padding-bottom: 10%;
+}
+
  .fa{
  	display: inline-block;
  	font: normal normal normal 14px/1 FontAwesome;

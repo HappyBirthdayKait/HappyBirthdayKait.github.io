@@ -3,7 +3,14 @@
         {% if gallery.id == page.gallery-id %}
             {% for image in gallery.images %}
             <b>{{ image.alttext }}</b>
+
+            {% if page.featimg and page.img-orientation == "vertical" %}
+            <img class="vertical-pic" src="{{ gallery.imagefolder | prepend: site.baseurl | replace: '//', '/' }}/{{ image.filename }}" alt="{{ image.alttext }}">
+            {% endif %}
+
+            {% if page.featimg and page.img-orientation != "vertical" %}
             <img src="{{ gallery.imagefolder | prepend: site.baseurl | replace: '//', '/' }}/{{ image.filename }}" alt="{{ image.alttext }}">
+            {% endif %}
 {% endfor %}
 {% endif %}
 {% endfor %}

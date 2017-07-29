@@ -37,6 +37,7 @@
   images:
   - filename: 1.jpg
     alttext: 1
+    orientation: vertical
   - filename: 2.jpg
     alttext: 2
   - filename: 3.jpg
