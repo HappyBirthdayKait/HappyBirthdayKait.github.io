@@ -4,8 +4,8 @@ layout: post_full
 type: image
 featimg: happy-birthday.jpg
 title: Kait's 21st Birthday
-tags: [birthday, holiday]
-category: [holiday]
+tags: [Birthday, Holiday]
+category: [Holiday]
 ---
 Happy Birthday Kaitlyn! 
 Welcome to your first website! 😘 

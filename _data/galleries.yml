@@ -32,4 +32,14 @@
   - filename: 5.jpg
     alttext: 5
 
-
+- id: 2017July4th
+  imagefolder: /img/galleries/2017July4th
+  images:
+  - filename: 1.jpg
+    alttext: 1
+  - filename: 2.jpg
+    alttext: 2
+  - filename: 3.jpg
+    alttext: 3
+  - filename: 4.jpg
+    alttext: 4
