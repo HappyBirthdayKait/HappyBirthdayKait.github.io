@@ -19,15 +19,17 @@
     alttext: Filled out
     
 - id: KaitsBirthday
-  imagefolder: img/galleries/k21-birthday
+  imagefolder: /img/galleries/k21-birthday
   images:
   - filename: 1.jpg
-    alttext: Bloom Flat
-  - filename: 1.jpg
-    alttext: Bloom Flat
-  - filename: 1.jpg
-    alttext: Bloom Flat
-  - filename: 1.jpg
-    alttext: Bloom Flat
-  - filename: 1.jpg
-    alttext: Bloom Flat
+    alttext: 1
+  - filename: 2.jpg
+    alttext: 2
+  - filename: 3.jpg
+    alttext: 3
+  - filename: 4.jpg
+    alttext: 4
+  - filename: 5.jpg
+    alttext: 5
+
+

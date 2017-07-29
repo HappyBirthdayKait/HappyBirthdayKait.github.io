@@ -1,5 +1,6 @@
 ---
 author: B
+layout: post_full
 type: image
 featimg: happy-birthday.jpg
 title: Kait's 21st Birthday
