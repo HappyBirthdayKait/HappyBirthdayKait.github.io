@@ -17,3 +17,17 @@
     alttext: Exotic
   - filename: 8.jpg
     alttext: Filled out
+    
+- id: KaitsBirthday
+  imagefolder: img/galleries/k21-birthday
+  images:
+  - filename: 1.jpg
+    alttext: Bloom Flat
+  - filename: 1.jpg
+    alttext: Bloom Flat
+  - filename: 1.jpg
+    alttext: Bloom Flat
+  - filename: 1.jpg
+    alttext: Bloom Flat
+  - filename: 1.jpg
+    alttext: Bloom Flat
