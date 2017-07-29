@@ -10,6 +10,10 @@
  	font-style: normal;
  	}
 
+ html{
+ 	background-color: rgba(0,128,128, 0.3);
+ }
+
  .vertical-pic{
 	-webkit-transform: rotate(90deg);
 	margin-top: 10%;
@@ -2960,4 +2964,8 @@ to {
 	}
 .masonry a:hover img, .masonry a:hover footer .backtotop:hover, footer .masonry a:hover .backtotop:hover {
 	opacity:1;
+	}
+
+footer {
+	background-color: rgba(0,128,128, 0.7);
 	}
