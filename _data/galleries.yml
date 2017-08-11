@@ -73,3 +73,15 @@
   images:
   - filename: 1.jpg
     alttext: 1
+
+- id: thecastle
+  imagefolder: /img/galleries/thecastle
+  images:
+  - filename: 1.jpg
+    img-orientation: vertical
+    alttext: 1
+  - filename: 2.jpg
+    img-orientation: vertical
+    alttext: 2
+  - filename: 3.jpg
+    alttext: 3
