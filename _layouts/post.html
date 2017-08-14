@@ -31,7 +31,7 @@
                             {% endif %}
 
                         {% elsif page.type == "image" or page.type == "gallery" %}
-                            
+
                                 {% if page.featimg and page.img-orientation == "vertical" %}
                                 <img class="featimg vertical-pic" src="{{ site.media_folder | prepend: site.baseurl | replace: '//', '/'}}/{{ page.featimg }}" alt="{{ page.featimg }}">
                                 {% endif %}
