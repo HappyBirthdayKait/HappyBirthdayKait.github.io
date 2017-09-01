@@ -3,85 +3,56 @@
   images:
   - filename: 1.jpg
     img-orientation: vertical
-    alttext: Bloom Flat
   - filename: 2.jpg
     img-orientation: vertical
-    alttext: Bloom
   - filename: 3.jpg
-    alttext: Blossom in a Star
   - filename: 4.jpg
     img-orientation: vertical
-    alttext: Blossom
   - filename: 5.jpg
-    alttext: Bubbly Bloom
   - filename: 6.jpg
-    alttext: Rays of Gold
   - filename: 7.jpg
     img-orientation: vertical
-    alttext: Exotic
   - filename: 8.png
-    alttext: Filled out
   - filename: 9.png
-    alttext: Bloom Flat
   - filename: 10.png
-    alttext: Bloom
   - filename: 11.png
-    alttext: Blossom in a Star
   - filename: 12.jpg
-    alttext: Blossom
   - filename: 13.jpg
-    alttext: Bubbly Bloom
   - filename: 14.jpg
-    alttext: Rays of Gold
   - filename: 15.jpg
-    alttext: Exotic
   - filename: 16.jpg
-    alttext: Filled out
     
 - id: KaitsBirthday
   imagefolder: /img/galleries/k21-birthday
   images:
   - filename: 1.jpg
-    alttext: 1
   - filename: 2.jpg
-    alttext: 2
   - filename: 3.jpg
-    alttext: 3
   - filename: 4.jpg
-    alttext: 4
   - filename: 5.jpg
-    alttext: 5
 
 - id: 2017July4th
   imagefolder: /img/galleries/2017July4th
   images:
   - filename: 1.jpg
     img-orientation: vertical
-    alttext: 1
   - filename: 2.jpg
     img-orientation: vertical
-    alttext: 2
   - filename: 3.jpg
     img-orientation: vertical
-    alttext: 3
   - filename: 4.jpg
     img-orientation: vertical
-    alttext: 4
 
 - id: 2017easter
   imagefolder: /img/galleries/2017easter
   images:
   - filename: 1.jpg
-    alttext: 1
 
 - id: thecastle
   imagefolder: /img/galleries/thecastle
   images:
   - filename: 1.jpg
     img-orientation: vertical
-    alttext: 1
   - filename: 2.jpg
     img-orientation: vertical
-    alttext: 2
   - filename: 3.jpg
-    alttext: 3
