@@ -21,6 +21,7 @@
 	transform: rotate(90deg);
 	margin-top: 10%;
 	margin-bottom: 10%;
+	padding-bottom: 10%;
 }
 
  .fa{
@@ -1874,7 +1875,7 @@ code {
 	font-family:'Source Code Pro', 'Courier New', monospace;
 	}
 .featimg {
-	max-height: 500px;
+	width:100%;
 	}
 @media screen and (max-width: 368px) {
 	.iconnav .tumblr, .iconnav .instagram, .iconnav .twitter, .iconnav .youtube {
@@ -2345,7 +2346,7 @@ article ol {
 	padding-top:30px;
 	}
 .gallery img {
-	max-width: 48%;
+	width:100%;
 	}
 .pagination {
 	width:100%;
