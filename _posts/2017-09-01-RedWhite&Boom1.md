@@ -3,7 +3,6 @@ author: k
 layout: post_full
 type: image
 featimg: rwb1.jpg
-img-orientation: vertical
 title: Red White & Boom 1
 tags: [holiday]
 category: [holiday, concert]
