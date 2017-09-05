@@ -3,8 +3,7 @@ author: k
 layout: post_full
 type: image
 featimg: rwb1.jpg
-img-orientation: vertical
-title: RWB Night #1
+title: RWB Night 1
 tags: [holiday, concert]
 category: [holiday]
 ---
