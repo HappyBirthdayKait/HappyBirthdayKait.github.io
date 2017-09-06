@@ -61,7 +61,6 @@
   imagefolder: /img/galleries/rwb1
   images:
   - filename: 1.jpg
-    img-orientation: vertical
   - filename: 2.jpg
     img-orienation: vertical
 
