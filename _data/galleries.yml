@@ -57,7 +57,27 @@
     img-orientation: vertical
   - filename: 3.jpg
 
-  id: rwb3
+- id: rwb1
+  imagefolder: /img/galleries/rwb1
+  images:
+  - filename: 1.jpg
+    img-orientation: vertical
+  - filename: 2.jpg
+    img-orienation: vertical
+
+- id: rwb2
+  imagefolder: /img/galleries/rwb2
+  images:
+  - filename: 1.jpg
+    img-orientation: vertical
+  - filename: 2.jpg
+    img-orientation: vertical
+  - filename: 3.jpg
+    img-orientation: vertical
+  - filename: 4.jpg
+    img-orientation: vertical
+
+- id: rwb3
   imagefolder: /img/galleries/rwb3
   images:
   - filename: 1.jpg
