@@ -3,7 +3,7 @@ author: k
 type: gallery
 featimg: thomasrhett.jpg
 title: Thomas Rhett Concert
-gallery-id: rwb1
+gallery-id: thomasrhett
 tags: [concert]
 category: [concert]
 ---
