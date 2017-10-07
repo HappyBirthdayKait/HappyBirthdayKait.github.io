@@ -1,8 +1,8 @@
 ---
 author: k
 type: gallery
-featimg: FLdateheader.jpg
-title: FL Date Night
+featimg: floridaheader.jpg
+title: Florida Date Night
 gallery-id: floridadatenight
 tags: [concert]
 category: [concert]
