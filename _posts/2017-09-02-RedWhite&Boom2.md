@@ -2,6 +2,7 @@
 author: k
 type: gallery
 featimg: rwb2.jpg
+img-orientation: vertical
 title: RWB Night 2
 gallery-id: rwb2
 tags: [concert]
