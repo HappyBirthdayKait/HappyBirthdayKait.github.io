@@ -16,5 +16,8 @@ title: Together List
 	- Dustin Lynch
 	- Little Big Town
 
-
+- **Thomas Rhett 2017**
+	- Thomas Rhett
+	- Walker Hayes
+	- Old Dominion
 <br/>

@@ -81,6 +81,15 @@
   - filename: 4.jpg
   - filename: 5.jpg
 
+    - id: floridadatenight
+  imagefolder: /img/galleries/floridadatenight
+  images:
+  - filename: 1.jpg
+  - filename: 2.jpg
+  - filename: 3.jpg
+  - filename: 4.jpg
+  - filename: 5.jpg
+
   - id: thomasrhett
   imagefolder: /img/galleries/thomasrhett
   images:
