@@ -1,3 +1,9 @@
+- id: barnight
+  imagefolder: /img/galleries/barnight
+  images:
+  - filename: bar1.jpg
+  - filename: bar2.jpg
+  
 - id: 2017ravenrun
   imagefolder: /img/galleries/2017ravenrun
   images:
