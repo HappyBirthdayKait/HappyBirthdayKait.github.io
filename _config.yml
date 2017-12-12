@@ -2,7 +2,7 @@ name: 🎉Happy Birthday Kaitlyn!🎁
 description: You're 21 now! 😏
 url: happybirthdaykait.github.io
 gems: [jekyll-paginate]
-baseurl: #place folder name if site is served in subfolder
+baseurl: https://happybirthdaykait.github.io/
 permalink: /:title/
 paginate: 8
 paginate_path: /page/:num/
