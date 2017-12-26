@@ -13,6 +13,6 @@ title: movie-list
 - Conjuring 1
 - Halloweentown movies
 
-## SEEN
+## Seen
 - IT
 - Now You See Me 1 & 2
