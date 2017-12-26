@@ -5,8 +5,6 @@ title: movie-list
 -------------
 ## Movies
 
-- IT
-- Now You See Me 1 & 2
 - Kingsman
 - Death day
 - Legion
@@ -14,3 +12,7 @@ title: movie-list
 ## Movies To Go Back and Watch
 - Conjuring 1
 - Halloweentown movies
+
+## SEEN
+- IT
+- Now You See Me 1 & 2
