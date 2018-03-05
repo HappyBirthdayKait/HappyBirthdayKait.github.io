@@ -7,7 +7,6 @@ title: Movie List
 	- Unsane
 
 ## Movies we have seen together
-
 - **Scary Movies**
 	- The Conjuring
 	- The Conjuring 2
