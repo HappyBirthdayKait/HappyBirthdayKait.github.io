@@ -1,12 +1,13 @@
 ---
 layout: page
-title: movie-list
+title: Movie List
 ---
 -------------
 ## Movies to see:
 	- Unsane
 
 ## Movies we have seen together
+
 - **Scary Movies**
 	- The Conjuring
 	- The Conjuring 2
@@ -68,3 +69,4 @@ title: movie-list
 	- Hitch
 	- Titanic 
 	- How to Lose a Guy in 10 days
+<br/>
