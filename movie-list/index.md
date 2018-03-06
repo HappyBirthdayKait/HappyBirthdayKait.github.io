@@ -4,8 +4,9 @@ title: Movie List
 ---
 -------------
 ## Movies to see:
+    - Unsane
 
-## Movies we have seen together
+## Movies we've seen:
 - **Scary Movies**
     - The Conjuring
     - The Conjuring 2
