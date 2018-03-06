@@ -3,8 +3,13 @@ layout: page
 title: movie-list
 ---
 -------------
-## Movies to see:
-	- Unsane
+## Movies To Go Back and Watch
+- Conjuring 1
+- Halloweentown movies
+
+## Seen
+- IT
+- Now You See Me 1 & 2
 
 ## Movies we have seen together
 - **Scary Movies**
