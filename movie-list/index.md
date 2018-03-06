@@ -45,6 +45,7 @@ title: Movie List
 	- The Circle
 	- Inception
 
+
 - **Animations**	
 	- The Emoji Movie
 	- Chicken Little
@@ -56,6 +57,12 @@ title: Movie List
 	- Now You See Me 1&2
 	- Jumanji: Welcome to the Jungle (2017)
 	- How the Grinch Stole Christmas
+
+- **Animations**	
+	- The Emoji Movie
+	- Chicken Little
+	- Finding Dory
+	- Secret Life of Pets
 
 - **Romantic Comedies**
 	- Hitch
