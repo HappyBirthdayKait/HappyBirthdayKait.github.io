@@ -4,7 +4,7 @@ title: Movie List
 ---
 -------------
 ## Movies to see:
-    - Unsane
+- Unsane
 
 ## Movies we've seen:
 - **Scary Movies**
