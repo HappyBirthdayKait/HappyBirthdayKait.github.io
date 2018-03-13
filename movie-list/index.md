@@ -26,6 +26,7 @@ title: Movie List
     - The Invitation
     - The Lazarus Effect
     - Devil
+    - At the Devil's Door
 
 - **Action/ Drama Movies**
     - The Accountant
@@ -44,6 +45,9 @@ title: Movie List
     - Zero Dark Thirty
     - The Circle
     - Inception
+    - We Are Marshall (First Movie EVER)
+    - Black Panther
+    - Hancock
 
 - **Animations**	
     - The Emoji Movie
@@ -56,8 +60,16 @@ title: Movie List
     - Now You See Me 1&2
     - Jumanji: Welcome to the Jungle (2017)
     - How the Grinch Stole Christmas
+    - Wedding Ringer
+    - Extract
 
 - **Romantic Comedies**
     - Hitch
     - Titanic 
     - How to Lose a Guy in 10 days
+    - Just Go With It
+
+-  **For Blake's Film Class**
+    - Her
+    - Drive
+    - Eternal Sunshine of the Spotless Mind    
