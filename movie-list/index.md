@@ -69,7 +69,7 @@ title: Movie List
     - How to Lose a Guy in 10 days
     - Just Go With It
 
--  **For Blake's Film Class**
+- **For Blake's Film Class**
     - Her
     - Drive
     - Eternal Sunshine of the Spotless Mind    
