@@ -98,3 +98,35 @@
   - filename: 3.jpg
   - filename: 4.jpg
   - filename: 5.jpg
+
+- id: blakes21st
+  imagefolder: /img/galleries/blakes21st
+  images: 
+
+  - filename: 1sober.mp4
+  - filename: 2midnightdrink.mp4
+  - filename: 3firstdrink.mov
+  - filename: 3giftbaskets.jpg
+  - filename: 4alcohol.jpg
+  - filename: 5basket.jpg
+  - filename: 6gifts.jpg
+  - filename: 7glasses.jpg
+  - filename: 8licensepic.jpg
+  - filename: 9bjslunch.jpg
+  - filename: 10Bjsdrink.jpg
+  - filename: 11monkeybread.jpg
+  - filename: 12fampic.jpg
+  - filename: 13drakes.jpg
+  - filename: 14bullseye.jpg
+  - filename: 15darts.jpg
+  - filename: 16pregame.jpg
+  - filename: 17cute.jpg
+  - filename: 18drunkryan.jpg
+  - filename: 19chelsea.jpg
+  - filename: 20ryansaturtle.mp4
+  - filename: 21drinklist.jpg
+  - filename: 22BBN.jpg
+  - filename: 23ihop.jpg
+  - filename: 24tastesdifferent.jpg
+  - filename: 25brokenfoot.jpg
+  - filename: 26snacks.jpg
