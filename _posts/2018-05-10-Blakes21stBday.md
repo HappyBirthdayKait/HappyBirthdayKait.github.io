@@ -3,7 +3,7 @@ author: k
 type: gallery
 featimg: wait1more.jpg
 title: Blake's 21st Birthday Weekend
-gallery-id: blakes21
+gallery-id: blakes21st
 tags: [birthday]
 category: [holiday]
 ---
