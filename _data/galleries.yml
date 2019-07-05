@@ -1,3 +1,10 @@
+- id: 3year
+  imagefolder: /img/galleries/year3
+  images:
+  - filename: 1.jpg
+  - filename: 2.jpg
+  - filename: 3.jpg
+
 - id: 2017ravenrun
   imagefolder: /img/galleries/2017ravenrun
   images:
