@@ -1,7 +1,7 @@
 ---
 author: K
 type: gallery
-featimg: galleries/springbreak2019/Header.png
+featimg: galleries/springbreak2019/whitehouse.jpg
 title: Washington D.C.!
 gallery-id: springbreak2019
 tags: [travel]
