@@ -2,7 +2,7 @@
 author: k
 type: gallery
 featimg: lukebryan.header.jpg
-title: Florida Date Night
+title: Luke Bryan Concert 2019
 gallery-id: lukebryan
 tags: [concert]
 category: [concert]
