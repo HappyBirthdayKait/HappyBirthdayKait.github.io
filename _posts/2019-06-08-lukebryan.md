@@ -1,7 +1,7 @@
 ---
 author: k
 type: gallery
-featimg: lukebryan.header.jpg
+featimg: lukebryanheader.jpg
 title: Luke Bryan Concert 2019
 gallery-id: lukebryan
 tags: [concert]

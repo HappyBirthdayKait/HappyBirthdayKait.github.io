@@ -10,6 +10,14 @@
   - filename: 2.jpg
   - filename: 3.jpg
 
+- id: lukebryan
+  imagefolder: /img/galleries/lukebryan
+  images:
+  - filename: rainisagoodthing.m4v
+  - filename: lawnpicture.jpg
+  - filename: nightpicture.jpg
+  - filename: sunsetrepeattour.jpg
+
 - id: 2017ravenrun
   imagefolder: /img/galleries/2017ravenrun
   images:
