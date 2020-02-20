@@ -1,0 +1,16 @@
+---
+author: K
+type: gallery
+featimg: galleries/springbreak2019/whitehouse.jpg
+title: Washington D.C.!
+gallery-id: springbreak2019
+tags: [travel]
+category: [adventures]
+---
+We took a few days off and drove up to Virginia for your first big job interview and last spring break. On the drive there, we found out the hard way that going over 80 in Virginia (no matter the speed limit) is considered a felony and you got your 2nd speeding ticket! What better way to start off our vacation?😉
+We finally arrived late on Friday night & stayed with your aunt and uncle. On our first day, they took us to the air and space museum and to a local winery for lunch. We spent our first couple of days just exploring the area around D.C. and quickly learned just how expensive everything is there! We ended up getting lunch at On the Border and driving around some more. We spent some time with family as well and watched Guardians of the Galaxy 1 & 2 for the first time, as well as Avengers: Infinity War for the 1083854872 time😂
+On Monday, it was finally time to explore D.C. We got up at 6 o'clock in the morning so John could drop us off at the train and boy, were we tired. You were hungry when we got there, so we wondered around and found a cute little hole-in-the-wall place called Wicked Waffle. We both got strawberry waffles, yours with whipped cream and mine without of course. Then, we started making our way back through downtown and started with the White House. You couldn't believe how small it was lol. From there, we headed back towards the Washington Monument (which was closed for construction) and started with the War Memorials. We saw the Lincoln Memorial, Jefferson Memorial, World War II Memorial, Korean War Memorial, and Vietnam War Memorial. The Jefferson Memorial was the farthest away and from there, we went to get our tickets for the Holocaust museum. We had an hour to kill before our group started, so we decided to look for lunch. Unfortunately, there were no restaurants in sight! I asked a security guard if there was anything nearby, and he told us to go in the second door on the right. Well, that ended up being the FDA headquarters, but we went for it anyways and they had an awesome cafeteria! We got some chicken fingers and fries before heading back to the Holocaust Museum. After we finished that tour, we made our through the Natural History Museum and stopped by an ice cream truck before walking over to the Capitol Building. We didn't have time to get close or go inside, but we sat by the water and relaxed for a minute which was equally nice. We ran back to catch the train and ended up passed out for the night when we finally got home😂 
+The next day you had your interview and absolutely killed it, as expected! Still waiting on that job offer though🤔😉 we headed home Wednesday and picked up our puppy, the perfect ending to such a fun but tiring trip! I love exploring with you and am thankful for all the experiences we got to share that week❤️ I wonder if we'll be back! 
+<br>
+
+{% include gallery.html %}
