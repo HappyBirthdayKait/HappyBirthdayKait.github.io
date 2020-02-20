@@ -1,3 +1,8 @@
+- id: 4year
+  imagefolder: /img/galleries/year4
+  images:
+  - filename: 1.jpg
+
 - id: 3year
   imagefolder: /img/galleries/year3
   images:
